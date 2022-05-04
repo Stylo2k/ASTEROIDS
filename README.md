@@ -1,3 +1,3 @@
 # Asteroids
 
-Old school asteroids game with fancy sound effects and asteroids written in JAVA.
+Old school asteroids game with a multiplayer mode, fancy sound effects and asteroids written in JAVA.
